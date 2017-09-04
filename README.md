@@ -44,6 +44,11 @@ ACCESS_COARSE_LOCATION
 ACCESS_NETWORK_STATE
 ACCESS_WIFI_STATE
 ```
+And following permissions in iOS.
+```c#
+Location Always Usage Description
+Privacy - Location Usage Description
+```
 
 
 ### For any issue with library please report here 
